@@ -1,0 +1,8 @@
+Comentarios:
+
+- Usar ; en la funcion flecha.
+- El proyecto funciona perfectamente si no se importa 'react'. Desde la version 17 no es necesario.
+
+Retos:
+
+1.
